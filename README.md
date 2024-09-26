@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, sou o Luiz Werneck!</h1>
+  <h1>Olá, me chamo Luiz Werneck!</h1>
   <h2>Sejam bem vindos ao meu profile do GitHub</h2>
 </div>
 <div align="center">
