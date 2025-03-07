@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LuizWerneck">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizWerneck&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWerneck&layout=compact&locale=pt-br&size_weight=0.5&count_weight=0.5&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWerneck&layout=compact&locale=pt-br&size_weight=0.5&count_weight=0.5&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center"><br>
 <img align="center" alt="LWF-Csharp" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
