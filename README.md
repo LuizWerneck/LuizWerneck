@@ -14,7 +14,7 @@
 
 <img align="center" alt="LWF-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="LWF-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="LWF-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="LWF-Js"  src="https://img.shields.io/badge/GoLang-blue">
 </div>
   
   ##
