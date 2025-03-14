@@ -34,8 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LuizWerneck/LuizWerneck/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LuizWerneck/LuizWerneck/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
