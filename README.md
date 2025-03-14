@@ -1,22 +1,41 @@
-<div align="center">
-  <h1>Olá, me chamo Luiz Werneck!</h1>
-  <h2>Sejam bem vindos ao meu profile do GitHub</h2>
-</div>
-<div align="center">
-  <a href="https://github.com/LuizWerneck">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizWerneck&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWerneck&layout=compact&locale=pt-br&size_weight=0.5&count_weight=0.5&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center"><br>
-<img align="center" alt="LWF-Csharp" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="LWF-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="LWF-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="LWF-Js"  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</div>
-  
-  ##
-  
-  <div align="center">
+<h2 align="center">Luiz Werneck</h2>
 
-   <a href = "mailto:luizwerneck.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizWerneck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizWerneck&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="luizwerneck.info@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="luizwerneck.dev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LuizWerneck/LuizWerneck/output/snake.svg" alt="Snake animation" />
+
+###
