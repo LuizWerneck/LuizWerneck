@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuizWerneck/LuizWerneck/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
 
 ###
