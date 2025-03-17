@@ -1,4 +1,3 @@
-<h2 align="center">Luiz Werneck</h2>
 
 ###
 
